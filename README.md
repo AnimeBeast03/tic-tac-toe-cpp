@@ -3,8 +3,7 @@
 ![Language](https://img.shields.io/badge/language-C++-blue)
 ![Platform](https://img.shields.io/badge/platform-Terminal-lightgrey)
 
-A simple terminal-based Tic Tac Toe game built using C++.
-This project was created for learning and practice purposes.
+A simple console Tic Tac Toe game written in C++ with single-player and multiplayer modes.
 
 ---
 
@@ -60,13 +59,13 @@ This project was created for learning and practice purposes.
 Board positions:
 ```
           Column
+          1   2   3
 
-         1   2   3
-      1    |   |
-        ---+---+---
-Row   2    |   |
-        ---+---+---
-      3    |   |
+Row 1       |   |
+         ---+---+---
+Row 2       |   |
+         ---+---+---
+Row 3       |   |
 ```
 Example input:
 
@@ -80,7 +79,7 @@ This places your mark at row 2, column 3.
 ## Requirements
 
 - C++ compiler (clang++)
-- Termux (Android) OR Terminal (Windows/Linux/macOS/PowerShell)
+- Terminal (Windows / Linux / macOS / Termux)
 
 ---
 
