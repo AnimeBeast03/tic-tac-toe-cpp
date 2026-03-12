@@ -40,7 +40,6 @@ Supports Single Player (vs CPU) and Multiplayer modes.
 
 ## How to Play
 
-- Use Aroow Keys to navigate in game menu
 - Select Single Player or Multiplayer
 - Enter row and column when asked
 - First player to get 3 in a row wins
@@ -50,6 +49,7 @@ Supports Single Player (vs CPU) and Multiplayer modes.
 
 ## Controls
 
+- Use Aroow Keys to navigate in game menu
 - Enter row number when asked
 - Enter column number when asked
 - Rows and columns range from 1 to 3
