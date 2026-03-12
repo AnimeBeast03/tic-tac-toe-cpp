@@ -1,7 +1,7 @@
-# Tic Tac Toe (C++)
+# Tic Tac Toe Game (C++)
 
-Console-based Tic Tac Toe game written in C++.  
-Supports Single Player (vs CPU) and Multiplayer modes.
+A simple terminal-based Tic Tac Toe game built using C++.
+This project was created for learning and practice purposes.
 
 ---
 
@@ -49,7 +49,7 @@ Supports Single Player (vs CPU) and Multiplayer modes.
 
 ## Controls
 
-- Use Aroow Keys to navigate in game menu
+- Use Arrow Keys to navigate in game menu
 - Enter row number when asked
 - Enter column number when asked
 - Rows and columns range from 1 to 3
@@ -58,18 +58,18 @@ Board positions:
 ```
         column
        1   2   3
-   1     |   |
-r     ---+---+---
-o  2     |   |
-w     ---+---+---
-   3     |   |
+row 1    |   |
+      ---+---+---
+row 2    |   |
+      ---+---+---
+row 3    |   |
 ```
 Example input:
 
 Select Row: 2<br>
 Select Column: 3
 
-This places your mark at 2nd row and 3rd column.
+This places your mark at row 2, column 3.
 
 ---
 
