@@ -40,6 +40,7 @@ Supports Single Player (vs CPU) and Multiplayer modes.
 
 ## How to Play
 
+- Use Aroow Keys to navigate in game menu
 - Select Single Player or Multiplayer
 - Enter row and column when asked
 - First player to get 3 in a row wins
@@ -74,7 +75,7 @@ This places your mark at 2nd row and 3rd column.
 
 ## Requirements
 
-- C++ compiler (g++)
+- C++ compiler (clang++)
 - Terminal / Command Prompt
 
 ---
