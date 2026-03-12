@@ -56,7 +56,7 @@ This project was created for learning and practice purposes.
 
 Board positions:
 ```
-        column
+         column
        1   2   3
 row 1    |   |
       ---+---+---
