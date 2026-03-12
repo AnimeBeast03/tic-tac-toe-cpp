@@ -47,6 +47,28 @@ g++ main.cpp -o tic-tac-toe
 
 ---
 
+## Controls
+
+- Enter row number when asked
+- Enter column number when asked
+- Rows and columns range from 1 to 3
+
+Board positions:
+
+  1 2 3
+1 _|_|_
+2 _|_|_
+3  | |
+
+Example input:
+
+Select Row: 2
+Select Column: 3
+
+This places your mark at 2nd row and 3rd column.
+
+---
+
 ## Requirements
 
 - C++ compiler (g++)
