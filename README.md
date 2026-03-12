@@ -54,15 +54,18 @@ g++ main.cpp -o tic-tac-toe
 - Rows and columns range from 1 to 3
 
 Board positions:
-
-  1   2   3
-1 _ | _ | _
-2 _ | _ | _
-3   |   |
-
+```
+        column
+       1   2   3
+   1     |   |
+r     ---+---+---
+o  2     |   |
+w     ---+---+---
+   3     |   |
+```
 Example input:
 
-Select Row: 2
+Select Row: 2<br>
 Select Column: 3
 
 This places your mark at 2nd row and 3rd column.
