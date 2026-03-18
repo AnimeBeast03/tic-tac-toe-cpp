@@ -21,10 +21,10 @@ Simple C++ terminal game project for practice and learning.
 ## Demo
 
 ### Game Menu
-![Game Menu](images/screenshot1.jpg)
+![Game Menu](screenshots/screenshot1.jpg)
 
 ### Gameplay
-![Gameplay](images/screenshot2.jpg)
+![Gameplay](screenshots/screenshot2.jpg)
 
 ---
 
